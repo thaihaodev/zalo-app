@@ -1,0 +1,30 @@
+.login-form{
+    width: 300px;
+}
+
+.login-title{
+    font-size: 23px;
+    color: #000;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.login-container {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.login-form-button {
+    width: 100%;
+}
+
+.footer-login{
+    display: flex;
+    justify-content: space-between;
+}
